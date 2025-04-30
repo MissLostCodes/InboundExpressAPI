@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Inbound Medic AI",
+  "name_for_model": "inbound_medic_ai",
+  "description_for_human": "Search and analyze medical content from Inbound Medic AI crawled data.",
+  "description_for_model": "A plugin that allows searching and analyzing medical content from Inbound Medic AI crawled data. Use this when users need to search through medical marketing content or patient aquisition content.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "http://localhost:3000/openapi.yaml",
+    "is_user_authenticated": false
+  },
+  "logo_url": "http://localhost:3000/logo.png",
+  "contact_email": "support@inboundmedic.com",
+  "legal_info_url": "http://inboundmedic.com/legal"
+} 

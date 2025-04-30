@@ -1,0 +1,31 @@
+# Ignore everything in parent directories
+../*
+../../*
+../../../*
+../../../../*
+
+# Don't ignore this directory
+!InboundExpressAPI/
+
+# Don't ignore the .gitignore file
+!.gitignore
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 
