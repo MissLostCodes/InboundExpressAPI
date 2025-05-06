@@ -12,7 +12,7 @@
     "url": "http://localhost:3000/openapi.yaml",
     "is_user_authenticated": false
   },
-  "logo_url": "http://localhost:3000/logo.png",
+  "logo_url": "http://localhost:3000/logo.jpg",
   "contact_email": "support@inboundmedic.com",
   "legal_info_url": "http://inboundmedic.com/legal"
 } 
