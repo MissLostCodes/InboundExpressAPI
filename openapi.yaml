@@ -4,7 +4,7 @@ info:
   description: API for searching and analyzing patient aquisition and medical marketing content from Inbound Medic AI crawled data
   version: '1.0.0'
 servers:
-  - url: http://localhost:3000
+  - url: https://ima-api-gpt-plugin.onrender.com/
 paths:
   /analyze:
     post:

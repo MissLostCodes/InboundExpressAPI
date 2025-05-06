@@ -9,10 +9,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "http://localhost:3000/openapi.yaml",
+    "url": "https://ima-api-gpt-plugin.onrender.com/openapi.yaml",
     "is_user_authenticated": false
   },
-  "logo_url": "http://localhost:3000/logo.jpg",
+  "logo_url": "https://ima-api-gpt-plugin.onrender.com/logo.jpg",
   "contact_email": "support@inboundmedic.com",
   "legal_info_url": "http://inboundmedic.com/legal"
 } 
